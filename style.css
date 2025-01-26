@@ -114,6 +114,7 @@ body {
 }
 
 .error{
+    display: none;
     text-align: left;
     margin-left: 10px;
     font-size: 14px;
